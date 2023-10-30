@@ -5,6 +5,7 @@ permalink: /projects/gsoc/
 ---
 # Google Summer of Code 2023: Enhancing OpenPiton+Ariane With a High-Performance Data Cache
 *Project advisors: Jonathan Balkind and Cesar Fuguet*
+
 *Organization Name: FOSSi Foundation*
 
 ## Synopsis
